@@ -1,0 +1,543 @@
+IR UW22 80165443,19652712,59075157,66095001
+0: https://www.stat.uci.edu/
+
+1: https://www.stat.uci.edu/slider/uci-launches-new-professional-program-master-of-data-science/
+
+2: https://www.stat.uci.edu/what-is-statistics/
+
+3: https://www.stat.uci.edu/research/
+
+4: https://www.stat.uci.edu/seminar-series/
+
+5: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Graduate&department=STATS&program=ALL
+
+6: https://www.stat.uci.edu/slider/b-s-in-data-science/
+
+7: https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+
+8: https://www.stat.uci.edu/chairs-message/
+
+9: http://www.stat.uci.edu/news/
+
+10: https://www.stat.uci.edu/stephan-mandt-and-collaborators-receive-3-5-million-to-study-machine-learning-for-climate-science/
+
+11: https://www.stat.uci.edu/lifetime-achievement-and-dinsdale-awards-double-the-accolades-for-professor-emerita-jessica-utts/
+
+12: https://www.ics.uci.edu/
+
+13: https://www.stat.uci.edu/grad-student-directory/
+
+14: https://www.stat.uci.edu/employers-of-statistics-grad-students/
+
+15: https://statconsulting.ics.uci.edu/
+
+16: https://www.stat.uci.edu/faculty/
+
+17: /seminar-series/
+
+18: https://www.stat.uci.edu/uci-news-uci-led-study-finds-disparities-in-o-c-rates-of-covid-19-infection-mortality-vladimir-minin-mentioned/
+
+19: https://www.stat.uci.edu/wp-content/uploads/PeterMuellerAbstract_10-21-21.pdf
+
+20: https://uci.zoom.us/j/91270309976?pwd=aXNOdzA2bC9vWDRWNmhsL1QwS2szdz09
+
+21: https://recruit.ap.uci.edu/apply#donald-bren-school-of-information-and-computer-sciences
+
+22: https://uci.edu/privacy/
+
+23: https://www.stat.uci.edu/statistics-internships-employment-opportunities/
+
+24: https://mds.ics.uci.edu/
+
+25: https://www.stat.uci.edu/contact-the-department/
+
+26: https://www.stat.uci.edu/tutoring-resources/
+
+27: #
+
+28: http://www.ics.uci.edu/ugrad/courses/listing.php?year=2016&level=Lower-Division&department=STATS&program=ALL
+
+29: https://www.stat.uci.edu/harnessing-the-data-revolution-ics-researchers-and-collaborators-receive-1-5m-data-science-grant/
+
+30: https://www.stat.uci.edu/minor-in-statistics/
+
+31: //www.stat.uci.edu/news/
+
+32: mailto:communications@ics.uci.edu
+
+33: https://www.stat.uci.edu/from-theory-to-practice-ucis-machine-learning-hackathon-delivers/
+
+done!
+0: https://www.informatics.uci.edu/grad/phd-software-engineering/
+
+1: https://www.informatics.uci.edu/explore/books-we-read/
+
+2: https://www.informatics.uci.edu/explore/faculty-profiles/stacy-branham
+
+3: https://www.informatics.uci.edu/grad/mswe/
+
+4: https://www.informatics.uci.edu/support/provide-projects/
+
+5: https://www.informatics.uci.edu/undergrad/special-opportunities/
+
+6: https://www.informatics.uci.edu/undergrad/student-profiles/
+
+7: https://www.informatics.uci.edu/undergrad/minors/
+
+8: #content
+
+9: https://www.informatics.uci.edu/very-top-footer-menu-items/news/
+
+10: https://www.informatics.uci.edu/very-top-footer-menu-items/people/
+
+11: https://www.informatics.uci.edu/undergrad/bs-information-computer-science/
+
+12: https://www.informatics.uci.edu/grad/ms-informatics/
+
+13: https://www.informatics.uci.edu/grad/ms-software-engineering/
+
+14: https://www.informatics.uci.edu/research/labs-centers/
+
+15: https://www.informatics.uci.edu/grad/mhcid/
+
+16: #
+
+17: https://www.informatics.uci.edu/impact/community-engagement/
+
+18: https://www.informatics.uci.edu/grad/phd-informatics/
+
+19: https://www.informatics.uci.edu/undergrad/student-groups/
+
+20: https://www.informatics.uci.edu/support/support-students/
+
+21: https://www.informatics.uci.edu/research/undergraduate-research/
+
+22: https://www.informatics.uci.edu/research/masters-research/
+
+23: https://www.informatics.uci.edu/admissions/graduate-application-process/
+
+24: https://www.informatics.uci.edu/admissions/coming-from-abroad/
+
+25: https://www.informatics.uci.edu/brochure-tiles/how-we-work
+
+26: https://www.informatics.uci.edu/impact/outreach/
+
+27: https://www.informatics.uci.edu/undergrad/bs-game-design/
+
+28: https://www.informatics.uci.edu/
+
+29: https://www.informatics.uci.edu/admissions/undergraduate-application-process/
+
+30: https://www.informatics.uci.edu/research/areas-of-expertise/
+
+31: https://www.informatics.uci.edu/undergrad/bs-software-engineering/
+
+32: https://www.informatics.uci.edu/explore/chairs-welcome/
+
+33: https://www.informatics.uci.edu/grad/upcoming-course-schedule/
+
+34: https://www.informatics.uci.edu/grad/mswe
+
+35: https://www.informatics.uci.edu/grad/student-groups/
+
+36: https://www.informatics.uci.edu/impact/graduate-alumni-spotlights/
+
+37: https://www.informatics.uci.edu/research/example-research-projects/
+
+38: https://www.informatics.uci.edu/grad/student-profiles/
+
+39: http://mhcid.ics.uci.edu/
+
+40: mailto:ichair@ics.uci.edu
+
+41: https://www.informatics.uci.edu/support/become-a-mentor/
+
+42: https://www.informatics.uci.edu/support/set-future-agenda/
+
+43: https://www.informatics.uci.edu/explore/books-we-have-written
+
+44: https://www.informatics.uci.edu/undergrad/courses/
+
+45: https://www.informatics.uci.edu/brochure-tiles/what-we-build
+
+46: https://www.informatics.uci.edu/admissions/student-life/
+
+47: http://www.ics.uci.edu/
+
+48: https://www.informatics.uci.edu/support/collaborate-on-research/
+
+49: https://www.informatics.uci.edu/explore/blogs-we-author/
+
+50: https://www.informatics.uci.edu/explore/books-we-have-written/
+
+51: https://www.informatics.uci.edu/admissions/housing/
+
+52: https://www.informatics.uci.edu/explore/visiting-the-department/
+
+53: https://www.informatics.uci.edu/explore/faculty-profiles/
+
+54: https://www.informatics.uci.edu/grad/overview/
+
+55: https://www.informatics.uci.edu/grad/diversity-ambassador/
+
+56: https://www.informatics.uci.edu/undergrad/policies/
+
+57: https://www.informatics.uci.edu/research/past-dissertations/
+
+58: https://www.informatics.uci.edu/undergrad/upcoming-course-schedule/
+
+59: https://www.informatics.uci.edu/explore/history-of-the-department/
+
+60: https://www.informatics.uci.edu/brochure-tiles/how-we-live
+
+61: https://www.informatics.uci.edu/undergrad/bs-business-information-management/
+
+62: https://www.informatics.uci.edu/impact/undergraduate-alumni-spotlights/
+
+63: https://www.informatics.uci.edu/undergrad/student-profiles
+
+64: https://www.informatics.uci.edu/research/gifts-grants/
+
+65: https://www.informatics.uci.edu/explore/facts-figures/
+
+66: https://www.informatics.uci.edu/research/example-research-projects
+
+67: https://www.informatics.uci.edu/support/share-your-talent/
+
+68: https://www.informatics.uci.edu/impact/research-that-matters/
+
+69: https://www.informatics.uci.edu/support/champion-research
+
+70: https://www.informatics.uci.edu/support/become-a-corporate-partner/
+
+71: https://twitter.com/UCI_Informatics
+
+72: https://www.informatics.uci.edu/explore/department-seminars/
+
+73: https://www.facebook.com/UCI.Informatics
+
+74: https://www.informatics.uci.edu/grad/policies/
+
+75: https://www.informatics.uci.edu/grad/courses/
+
+76: https://www.informatics.uci.edu/support/champion-research/
+
+77: https://mse.ics.uci.edu/%20
+
+78: https://www.informatics.uci.edu/very-top-footer-menu-items/contact/
+
+79: https://www.informatics.uci.edu/undergrad/bs-informatics/
+
+80: https://www.informatics.uci.edu/research/phd-research/
+
+81: https://www.informatics.uci.edu/explore/department-vision/
+
+82: https://www.informatics.uci.edu/?page_id=87
+
+83: http://uci.edu/privacy/
+
+84: https://www.informatics.uci.edu/very-top-footer-menu-items/site-map/
+
+done!
+0: https://www.cs.uci.edu/chen-li-receives-nsf-grant-for-collaborative-data-analytics/
+
+1: https://www.ics.uci.edu/
+
+2: https://www.cs.uci.edu/about-the-department/
+
+3: http://www.ics.uci.edu/
+
+4: https://www.cs.uci.edu/stephan-mandt-and-collaborators-receive-3-5-million-to-study-machine-learning-for-climate-science/
+
+5: /events/seminar-series/
+
+6: https://www.cs.uci.edu/ics-team-takes-1st-place-at-baidus-autodriving-capture-the-flag-competition/
+
+7: https://www.cs.uci.edu/faisal-nawab-receives-facebook-award-for-next-generation-data-infrastructure/
+
+8: https://www.cs.uci.edu/undergraduate-programs/
+
+9: https://www.cs.uci.edu/contact/
+
+10: https://recruit.ap.uci.edu/apply#donald-bren-school-of-information-and-computer-sciences
+
+11: https://uci.edu/privacy/
+
+12: http://www.cs.uci.edu/
+
+13: https://www.cs.uci.edu/uci-led-project-seeks-to-combat-wildfires/
+
+14: https://www.cs.uci.edu/research-centers/
+
+15: https://www.cs.uci.edu/current-graduate-students/
+
+16: https://www.cs.uci.edu/uci-launches-new-professional-program-master-of-data-science/
+
+17: https://www.cs.uci.edu/faculty/
+
+18: https://www.cs.uci.edu/uci-news-uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model-stephan-mandt-quoted/
+
+19: http://www.cs.uci.edu/professor-of-teaching-in-computer-science/
+
+20: https://www.cs.uci.edu/ics-welcomes-3-new-faculty-for-2021/
+
+21: https://recruit.ap.uci.edu/apply/JPF03719
+
+22: https://www.cs.uci.edu/nsf-civic-innovation-challenge-awards-1-million-to-uci-for-disaster-resilience-in-aging-communities/
+
+23: http://www.cs.uci.edu/distinguished-lecture-series/
+
+24: https://apply.grad.uci.edu/apply/
+
+25: http://www.cs.uci.edu//wp-content/uploads/Miller.pdf
+
+26: #
+
+27: http://www.uci.edu/
+
+28: /event/2017-computer-science-research-showcase/
+
+29: mailto:communications@ics.uci.edu
+
+30: /events/distinguished-lecture-series/
+
+31: https://www.cs.uci.edu/graduate-computer-science-programs/
+
+32: https://www.cs.uci.edu/cs-research-areas/
+
+33: /news
+
+34: https://www.admissions.uci.edu/apply/index.php
+
+35: http://www.cs.uci.edu/research-areas/
+
+36: https://www.cs.uci.edu/job-opportunities/
+
+done!
+0: /ugrad/degrees/index.php
+
+1: /community/news/
+
+2: https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&gid=3&pgid=801&dids=79
+
+3: https://forecast7.com/en/33d68n117d83/irvine/?unit=us
+
+4: https://www.ics.uci.edu/about/search/index.php
+
+5: /involved/
+
+6: //www.ics.uci.edu/ugrad/livechat.php
+
+7: //www.ics.uci.edu/community/news/view_news?id=2052
+
+8: /community/scholarships/index
+
+9: https://www.linkedin.com/company/uc-irvine-information-and-computer-sciences
+
+10: /ugrad/policies/Academic_Standing
+
+11: //campusgroups.uci.edu/ics/events/
+
+12: /ugrad/
+
+13: /grad/funding/index
+
+14: https://apply.grad.uci.edu/apply/
+
+15: /grad/Course_updates
+
+16: /about/brenhall/index.php
+
+17: #
+
+18: /ugrad/QA_Petitions
+
+19: //www.ics.uci.edu/community/news/view_news?id=2000
+
+20: //www.ics.uci.edu/community/news/
+
+21: /community/events/competition/
+
+22: http://facebook.com/UCIBrenICS
+
+23: /ugrad/policies/Course_Outside_UCI
+
+24: #carouselExampleIndicators
+
+25: /grad/degrees/index
+
+26: /grad/funding/housing
+
+27: /about/search/
+
+28: //www.ics.uci.edu/community/news/view_news?id=2050
+
+29: /grad/courses/index-course
+
+30: https://uci.edu/privacy/index.php
+
+31: /ugrad/degrees/Minors
+
+32: https://www.ics.uci.edu/about/kfflab/index.php
+
+33: //www.ics.uci.edu/community/news/view_news?id=2046
+
+34: /about/about_contact.php
+
+35: https://www.ics.uci.edu/about/about_contact.php
+
+36: https://campusgroups.uci.edu/vcal?source=rss_calendar&type=ical&school=uci&uid=cb229883d0727a0b64be161d02aa58e5
+
+37: /grad/forms/index
+
+38: //www.ics.uci.edu/community/news/view_news?id=2048
+
+39: /ugrad/policies/Withdrawal_Readmission
+
+40: /ugrad/sao/index
+
+41: /ugrad/sao/SAO_Events.php
+
+42: //industryshowcase.ics.uci.edu/register/
+
+43: https://www.ics.uci.edu/about/facilities/index.php
+
+44: https://www.ics.uci.edu/about/about_safety.php
+
+45: employment/employ_faculty.php
+
+46: /about/equity/
+
+47: /dept/
+
+48: /ugrad/policies/Laptop_ComputerUse
+
+49: https://uci.edu/
+
+50: http://instagram.com/ucibrenics/
+
+51: /involved/leadership_council
+
+52: https://campusgroups.uci.edu/vcal?source=rss_calendar&type=ical&school=uci&uid=15c9694021c9de6100af463261626ef2
+
+53: /community/alumni/
+
+54: /ugrad/policies/CS199_IN4MATX199
+
+55: https://www.ics.uci.edu/resources/coronavirus/
+
+56: //www.ics.uci.edu/community/news/view_news?id=2047
+
+57: https://www.ics.uci.edu/accessibility/
+
+58: /about/search/index.php
+
+59: //www.ics.uci.edu/community/news/view_news?id=2005
+
+60: https://intranet.ics.uci.edu/
+
+61: //www.ics.uci.edu/community/news/view_news?id=2053
+
+62: /ugrad/policies/Grade_Options
+
+63: /grad/admissions/index
+
+64: /faculty/highlights/
+
+65: //www.ics.uci.edu/community/news/view_news?id=2045
+
+66: /ugrad/policies/Academic_Honesty
+
+67: /ugrad/index
+
+68: //uci.joinhandshake.com/login
+
+69: /faculty/centers/
+
+70: https://campusgroups.uci.edu/rsvp?id=1348040
+
+71: https://www.ics.uci.edu/community/news/
+
+72: https://secure.give.uci.edu/give-to-uci-donald-bren-school-of-information-computer-sciences/
+
+73: /about/visit/index.php
+
+74: https://campusgroups.uci.edu/events?group_ids=54818
+
+75: /about/about_factsfigures.php
+
+76: https://www.ics.uci.edu/resources/researchdevelopment/
+
+77: /faculty/
+
+78: /about/search/search_graduate_all.php
+
+79: //www.informatics.uci.edu
+
+80: /about/
+
+81: /faculty/area/
+
+82: //www.ics.uci.edu/community/news/view_news?id=1932
+
+83: https://campusgroups.uci.edu/vcal?source=rss_calendar&type=ical&school=uci&uid=0fab4056434c6a244870d1aa33c63634
+
+84: //www.ics.uci.edu/employment/employ_faculty
+
+85: //www.cs.uci.edu
+
+86: //www.stat.uci.edu
+
+87: //campusgroups.uci.edu/events?group_ids=54818
+
+88: /about/visit/index
+
+89: //www.ics.uci.edu/involved/project_sponsor
+
+90: https://directory.uci.edu/
+
+91: /grad/resources
+
+92: /ugrad/sao/Course_updates
+
+93: /ugrad/courses/index-course
+
+94: //swiki.ics.uci.edu/doku.php
+
+95: /social/
+
+96: https://www.ics.uci.edu/employment/
+
+97: /grad/admissions/Prospective_ApplicationProcess.php
+
+98: /involved/corporate_partner
+
+99: /ugrad/resources/index
+
+100: /grad/index
+
+101: /ugrad/policies/Add_Drop_ChangeOption
+
+102: https://campusgroups.uci.edu/rsvp?id=1348137
+
+103: https://uci.edu/copyright/
+
+104: http://youtube.com/UCIBrenICS
+
+105: /grad/policies/index
+
+106: https://www.ics.uci.edu/about/visit/index.php
+
+107: /about/about_deanmsg.php
+
+108: /
+
+109: https://campusgroups.uci.edu/rsvp?id=1304787
+
+110: http://twitter.com/UCIbrenICS
+
+111: /about/annualreport/
+
+112: /ugrad/QA_Graduation
+
+done!
